@@ -64,6 +64,10 @@ This course will help you to learn Redux Thunk by building Netflix. It means tha
 ## __1. Live Demo.__
 
 - https://71cv0.csb.app/
+- Username: demo@gmail.com
+- Password: 123456
+
+> The login function was implemented by using Redux and Redux-Thunk. You can try to use the account above in order to test the feature. The result will be shown on the console log.
 
 <a id="introduction-about-the-creator"></a>
 ## __2. Introduction about the Creator.__
