@@ -8,14 +8,14 @@ I'm Hiep. I work as a full-time software engineer. Most of my open-source projec
 
 The repository helps you learn Redux Thunk by buiding Netflix. It means that you are learning Redux Thunk by building a real-life project. I will explain concepts in details. This post is the third part in my series and it is suitable for beginners.
 
-My post is about __Learn Redux Thunk By Building Netflix__ on Dev.to: 
+My post is about __Learn React & Redux Thunk By Building Netflix__ on Dev.to: https://dev.to/hieptl/learn-react-redux-thunk-by-building-netflix-4e3j
 
 > If you feel the repository is useful, please help me share the post and give me a Github :star:. It will make me feel motivation to work even harder. I will try to make many open sources and share to the community.
 >
 
 ## __Preface__
 
-This course will help you to learn Redux by building Netflix. It means that you are learning by doing a real-life project.
+This course will help you to learn Redux Thunk by building Netflix. It means that you are learning by doing a real-life project.
 
 ## __Table of Contents__
 | No. | Topics |
