@@ -151,7 +151,7 @@ Figure 1. Redux Middleware.
 <a id="why"></a>
 ### __5.2 Why.__
 
--  It’s just inconvenient in a large application because you’ll have different components performing the same actions, you might want to debounce some actions, or keep some local state like auto-incrementing IDs close to action creators, etc. So it is just easier from the maintenance point of view to extract action creators into separate functions.
+-  Redux middleware were designed to enable writing logic that has side effects.
 
 - Middleware like Redux Thunk or Redux Promise just gives you “syntax sugar” for dispatching thunks or promises
 
